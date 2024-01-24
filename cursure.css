@@ -1,0 +1,69 @@
+/* https://codepen.io/lbenmore/pen/qGGNyK */
+
+.happyTrail {
+  position: absolute;
+  width: 3vw;
+  height: 3vh;
+  flex-shrink: 0;
+  background-image: linear-gradient(180deg, #02FFB3 38.02%, #1712FF 100%);
+
+  filter: blur(58px);;
+  border-radius: 50%;
+  opacity: 1;
+  pointer-events: none;
+  /* filter: blur(2px); */
+  
+  animation-duration: 1s;
+  animation-name: rainbowFade;
+  animation-timing-function: ease;
+}
+
+@keyframes rainbowFade {
+  0% {
+    background:blue;
+    /* width: 3vw; */
+    /* height: 3vh; */
+    /* filter: hue-rotate(180); */
+
+}
+ 
+  20% {
+background:cyan ;
+/* width: 3vw;
+height: 3vh; */
+/* filter: hue-rotate(100); */
+
+;
+}
+ 
+  40% {
+  background: cornflowerblue;
+  /* width: 3.4vw; */
+  /* height: 3.4vh; */
+  /* filter: hue-rotate(10); */
+
+}
+  
+  60% {
+background:paleturquoise;
+filter: blur(30px);
+/* width: 2.6vw; */
+/* height: 2.6vh;   */
+}
+ 
+  80% {
+    background:lavender;
+    filter: blur(30px);
+		/* opacity: 0.8; */
+    /* width: 1.8vw; */
+    /* height: 1.8vh; */
+  }
+ 
+  100% {
+    filter: blur(30px);
+    background: blue;
+    /* ; width: 1vw; */
+    /* height: 1vh; */
+    /* opacity: 0; */
+  }
+}

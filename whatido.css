@@ -1,0 +1,28 @@
+
+.I-do{ 
+    /* background-color: #0f8383;
+    */height:90vh;/*
+    display: inline-flex;
+align-items: center; */
+/* position: ; */
+/* gap: 142px; */
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: space-evenly; */
+    /* background-image: url(./assets/images/background.jpg); */
+    /* transform: rotate(180deg); */
+    width:100%;
+    background-color: rgb(16, 53, 78);
+   /* justify-content: center; */
+    /* background-size: cover */
+    /* position: relative; */
+}
+
+.I-do-title{
+    width: 100%;
+    color:aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top:5%;
+    position: relative;
+    text-align: center;
+}

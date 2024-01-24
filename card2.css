@@ -1,0 +1,79 @@
+.comp-card{
+    position: relative;
+    width: 952px;
+    align-self: center; 
+    height: 452px;
+/* background-image: url(./assets/images/background.jpg); */
+border-radius: 40px;
+background: #ffffff4d;
+box-shadow: 0px 4px 78px -6px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(10px);
+margin: auto;
+/* padding-right: 200px; */
+display: inline-flex;
+align-items: center;
+justify-content: center;
+gap: 100px;
+transition: 1s linear;
+}
+/* .comp-card:hover{
+    /* backdrop-filter: blur(50px); 
+    background-color: #ffffff4d;
+
+ }  */
+/* .comp-card:hover img{ 
+    transition: .5s linear;
+}
+.comp-card:hover img{
+    box-shadow: 53px 47px 14px 0px rgba(0, 0, 0, 0.25);
+    /* transition: 1s liner; 
+    scale: 1.1;
+    transform: rotate(17deg);
+    margin-bottom: 20px;
+} */
+/* .comp-card:hover h2{
+    color: 
+    #0e0652;
+    transition: 1s linear infinite;
+} */
+/* .comp-card:hover h2 span{ */
+    /* transition: 1s linear;color:black */
+/* } */
+.compcard-content{
+   display: inline-flex;
+    max-width: 350px;
+   flex-direction: column;
+    /* background-color: red; */
+}
+.compcard-content h2{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: 
+    #0e0652;
+    transition: 1}
+.compcard-content h2 span{
+    color:#1b1a1a
+}
+.extra{ 
+    background-color: #0f8383;
+    height:90vh;
+    display: inline-flex;
+align-items: center;
+position: relative;
+/* gap: 142px; */
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: space-evenly; */
+    background-image: url(./assets/images/background.jpg);
+    width:100%;
+    background-size: cover
+    /* position: relative; */
+}
+.extra .intern{
+    position: absolute;
+    color:#76bcee;  
+    text-align: center;
+    top:0%;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
