@@ -1,0 +1,27 @@
+typed js for typing effect 
+read readem from https://github.com/mattboldt/typed.js/
+
+box icon for this 
+press usage 
+https://boxicons.com/
+
+https://devbeep.com/following-the-mouse-cursor/
+curure https://blog.hubspot.com/website/animated-cursor
+
+actual cursur trail https://codepen.io/lbenmore/pen/qGGNyK
+top 10 https://www.youtube.com/watch?v=2f5G2b8tGBg
+
+card
+https://codepen.io/gayane-gasparyan/pen/wvxewXO
+https://codepen.io/wikyware-net/pen/dyKPRxQ
+
+
+svg
+https://getwaves.io/
+
+image gallleau
+https://codemyui.com/tag/image-gallery/
+https://devsnap.me/css-gallery
+
+suggested
+https://codepen.io/thebabydino/pen/PowXYpV
